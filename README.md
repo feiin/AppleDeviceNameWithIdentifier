@@ -33,6 +33,8 @@ list of apple device's name with model Identifier
 
 ## iPod touch
 
+> Tech Specs:https://support.apple.com/en-us/HT204217
+
 | Identifier | Device Name | 
 | ---------- | ----------- |
 | iPod1,1    | iPod touch      |
@@ -44,6 +46,8 @@ list of apple device's name with model Identifier
 
 
 ## iPad
+
+> Tech Specs: https://support.apple.com/en-us/HT201471
 
 | Identifier | Device Name | 
 | ---------- | ----------- |
@@ -79,6 +83,31 @@ list of apple device's name with model Identifier
 | iPad6,7    | iPad Pro  |
 | iPad6,8    | iPad Pro Wi-Fi + Cellular  |
 
+
+## Apple Watch
+
+> Tech Specs: https://support.apple.com/en-us/HT204507
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| Watch1,1   | Apple Watch |
+| Watch1,2   | Apple Watch |
+| Watch2,6   | Apple Watch Series 1  |
+| Watch2,7   | Apple Watch Series 1  |
+| Watch2,3   | Apple Watch Series 2  |
+| Watch2,4   | Apple Watch Series 2  |
+
+## Apple TV
+
+> Tech Specs: https://support.apple.com/en-us/HT200008
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| AppleTV1,1 | Apple TV 1  |
+| AppleTV2,1 | Apple TV 2  |
+| AppleTV3,1 | Apple TV 3  |
+| AppleTV3,2 | Apple TV 3  |
+| AppleTV5,3 | Apple TV 4  |
 
 ## Simulator
 
