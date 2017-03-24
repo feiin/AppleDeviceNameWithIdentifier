@@ -161,6 +161,22 @@ list of apple device's name with model Identifier
 | iMac16,2 | iMac (Retina 4K, 21.5-inch, Late 2015)  |
 | iMac17,1 | iMac (Retina 5K, 27-inch, Late 2015)  |
 
+## Mac mini
+
+
+> Tech Specs: https://support.apple.com/en-us/HT201894
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| Macmini3,1 | Mac mini (Late/Early 2009) |
+| Macmini4,1 | Mac mini (Mid 2010) |
+| Macmini5,1 | Mac mini (Mid 2011) |
+| Macmini5,2 | Mac mini (Mid 2011) |
+| Macmini6,1 | Mac mini (Late 2012)|
+| Macmini6,2 | Mac mini (Late 2012)  |
+| Macmini7,1 | Mac mini (Late 2014)  |
+
+
 ## Simulator
 
 | Identifier | Device Name | 
