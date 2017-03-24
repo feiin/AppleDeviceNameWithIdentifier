@@ -208,6 +208,17 @@ list of apple device's name with model Identifier
 | Macmini7,1 | Mac mini (Late 2014)  |
 
 
+## Mac Pro
+
+
+> Tech Specs: https://support.apple.com/en-us/HT202888
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| MacPro4,1  | Mac Pro (Early 2009) |
+| MacPro5,1  | Mac Pro (Mid 2010/Mid 2012)/Mac Pro Server (Mid 2010/Mid 2012) |
+| MacPro6,1  | Mac Pro (Late 2013)|
+
 ## Simulator
 
 | Identifier | Device Name | 
