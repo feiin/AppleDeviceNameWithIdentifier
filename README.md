@@ -139,6 +139,25 @@ list of apple device's name with model Identifier
 | MacBookPro13,2 | MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports) |
 | MacBookPro13,3 | MacBook Pro (15-inch, 2016) |
 
+
+## MacBook Air
+
+> Tech Specs: https://support.apple.com/en-us/HT201862
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| MacBookAir2,1 | MacBook Air (Mid 2009)  |
+| MacBookAir3,1 | MacBook Air (11-inch, Late 2010) |
+| MacBookAir3,2 | MacBook Air (13-inch, Late 2010) |
+| MacBookAir4,1 | MacBook Air (11-inch, Mid 2011) |
+| MacBookAir4,2 | MacBook Air (13-inch, Mid 2011)  |
+| MacBookAir5,1 | MacBook Air (11-inch, Mid 2012)  |
+| MacBookAir5,2 | MacBook Air (13-inch, Mid 2012)  |
+| MacBookAir6,1 | MacBook Air (11-inch, Early/Mid 2013)  |
+| MacBookAir6,2 | MacBook Air (13-inch, Early/Mid 2013)  |
+| MacBookAir7,1 | MacBook Air (11-inch, Early 2015)  |
+| MacBookAir7,2 | MacBook Air (13-inch, Early 2015) |
+
 ## iMac
 
 > Tech Specs: https://support.apple.com/en-us/HT201634
