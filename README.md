@@ -158,6 +158,18 @@ list of apple device's name with model Identifier
 | MacBookAir7,1 | MacBook Air (11-inch, Early 2015)  |
 | MacBookAir7,2 | MacBook Air (13-inch, Early 2015) |
 
+## MacBook
+
+> Tech Specs: https://support.apple.com/en-us/HT201608
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| MacBook5,2 | MacBook (13-inch, Early/Mid 2009)  |
+| MacBook6,1 | MacBook (13-inch, Late 2009) |
+| MacBook7,1 | MacBook (13-inch, Mid 2010) |
+| MacBook8,1 | MacBook (Retina, 12-inch, Early 2015) |
+| MacBook9,1 | MacBook (Retina, 12-inch, Early 2016) |
+
 ## iMac
 
 > Tech Specs: https://support.apple.com/en-us/HT201634
