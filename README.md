@@ -31,6 +31,54 @@ list of apple device's name with model Identifier
 | iPhone9,2  | iPhone 7 Plus |
 | iPhone9,4  | iPhone 7 Plus |
 
+## iPod touch
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| iPod1,1    | iPod touch      |
+| iPod2,1    | iPod touch 2G   |
+| iPod3,1    | iPod touch 3G   |
+| iPod4,1    | iPod touch 4G   |
+| iPod5,1    |  iPod touch 5G   |
+| iPod7,1    | iPod touch 6G   |
+
+
+## iPad
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| iPad1,1	 | iPad        |
+| iPad2,1    | iPad 2 WiFi |
+| iPad2,2    | iPad 2 GSM  |
+| iPad2,3    | iPad 2 CDMA |
+| iPad2,4    | iPad 2 Wifi |
+| iPad2,5    | iPad mini Wifi |
+| iPad2,6    | iPad mini Wi-Fi + Cellular |
+| iPad2,7    | iPad mini Wi-Fi + Cellular (MM)|
+| iPad3,1    | iPad 3 WiFi   |
+| iPad3,2    | iPad 3 Wi-Fi + Cellular (VZ)   |
+| iPad3,3    | iPad 3 Wi-Fi + Cellular   |
+| iPad3,4    | iPad 4 Wifi   |
+| iPad3,5    | iPad 4 Wi-Fi + Cellular   |
+| iPad3,6    | iPad 4 Wi-Fi + Cellular (MM)  |
+| iPad4,1    | iPad Air Wifi   |
+| iPad4,2    | iPad Air Wi-Fi + Cellular  |
+| iPad4,3    | iPad Air Wi-Fi + Cellular (TD-LTE)  |
+| iPad4,4    | iPad mini 2 Wifi   |
+| iPad4,5    | iPad mini 2 Wi-Fi + Cellular  |
+| iPad4,6    | iPad mini 2 Wi-Fi + Cellular (TD-LTE)  |
+| iPad4,7    | iPad mini 3 Wifi   |
+| iPad4,8    | iPad mini 3 Wi-Fi + Cellular  |
+| iPad4,9    | iPad mini 3 Wi-Fi + Cellular (TD-LTE)  |
+| iPad5,1    | iPad mini 4  |
+| iPad5,2    | iPad mini 4 Wi-Fi + Cellular |
+| iPad5,3    | iPad Air 2  |
+| iPad5,4    | iPad Air 2 |
+| iPad6,3    | iPad Pro (9.7-inch)  |
+| iPad6,4   | iPad Pro (9.7-inch) Wi-Fi + Cellular  |
+| iPad6,7    | iPad Pro  |
+| iPad6,8    | iPad Pro Wi-Fi + Cellular  |
+
 
 ## Simulator
 
