@@ -139,6 +139,28 @@ list of apple device's name with model Identifier
 | MacBookPro13,2 | MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports) |
 | MacBookPro13,3 | MacBook Pro (15-inch, 2016) |
 
+## iMac
+
+> Tech Specs: https://support.apple.com/en-us/HT201634
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| iMac9,1  | iMac (20-inch/24-inch, Early 2009) |
+| iMac10,1 | iMac (21.5-inch/27-inch, Late 2009)|
+| iMac11,2 | iMac (21.5-inch, Mid 2010) |
+| iMac11,3 | iMac (27-inch, Mid 2010)  |
+| iMac12,1 | iMac (21.5-inch, Mid 2011) |
+| iMac12,2 | iMac (27-inch, Mid 2011)  |
+| iMac13,1 | iMac (21.5-inch, Late 2012)  |
+| iMac13,2 | iMac (27-inch, Late 2012) |
+| iMac14,1 | iMac (21.5-inch, Late 2013)  |
+| iMac14,2 | iMac (27-inch, Late 2013)  |
+| iMac14,4 | iMac (21.5-inch, Mid 2014) |
+| iMac15,1 | iMac (Retina 5K, 27-inch, Late 2014/Mid 2015)  |
+| iMac16,1 | iMac (21.5-inch, Late 2015)  |
+| iMac16,2 | iMac (Retina 4K, 21.5-inch, Late 2015)  |
+| iMac17,1 | iMac (Retina 5K, 27-inch, Late 2015)  |
+
 ## Simulator
 
 | Identifier | Device Name | 
