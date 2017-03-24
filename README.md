@@ -109,6 +109,36 @@ list of apple device's name with model Identifier
 | AppleTV3,2 | Apple TV 3  |
 | AppleTV5,3 | Apple TV 4  |
 
+
+## MacBook Pro
+
+> Tech Specs: https://support.apple.com/en-us/HT201300
+
+| Identifier | Device Name | 
+| ---------- | ----------- |
+| MacBookPro5,2 | MacBook Pro (17-inch, Mid/Early 2009)  |
+| MacBookPro5,3 | MacBook Pro (15-inch, Mid 2009) |
+| MacBookPro5,5 | MacBook Pro (13-inch, Mid 2009) |
+| MacBookPro6,1 | MacBook Pro (17-inch, Mid 2010)  |
+| MacBookPro6,1 | MacBook Pro (15-inch, Mid 2010)  |
+| MacBookPro7,1 | MacBook Pro (13-inch, Mid 2010)  |
+| MacBookPro8,1 | MacBook Pro (13-inch, Late/Early 2011)  |
+| MacBookPro8,2 | MacBook Pro (15-inch, Late/Early 2011)  |
+| MacBookPro8,3 | MacBook Pro (17-inch, Late/Early 2011)  |
+| MacBookPro9,1 | MacBook Pro (15-inch, Mid 2012)  |
+| MacBookPro9,2 | MacBook Pro (13-inch, Mid 2012) |
+| MacBookPro10,1 | MacBook Pro (Retina, 15-inch, Mid 2012/Early 2013)  |
+| MacBookPro10,2 | MacBook Pro (Retina, 13-inch, Late 2012/Early 2013)  |
+| MacBookPro11,1 | MacBook Pro (Retina, 13-inch, Late 2013/Mid 2014)  |
+| MacBookPro11,2 | MacBook Pro (Retina, 15-inch, Early 2013/Mid 2014)  |
+| MacBookPro11,3 | MacBook Pro (Retina, 15-inch, Early 2013/Mid 2014)  |
+| MacBookPro11,4 | MacBook Pro (Retina, 15-inch, Mid 2015)  |
+| MacBookPro11,5 | MacBook Pro (Retina, 15-inch, Mid 2015)  |
+| MacBookPro12,1 | MacBook Pro (Retina, 13-inch, Early 2015)  |
+| MacBookPro13,1 | MacBook Pro (13-inch, 2016, Two Thunderbolt 3 ports)  |
+| MacBookPro13,2 | MacBook Pro (13-inch, 2016, Four Thunderbolt 3 ports) |
+| MacBookPro13,3 | MacBook Pro (15-inch, 2016) |
+
 ## Simulator
 
 | Identifier | Device Name | 
